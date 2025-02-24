@@ -1,4 +1,4 @@
-# 📦 Inventario de Productos
+# 📦 Inventario de Productos con Map y List
 
 Este proyecto en Java permite gestionar un inventario de productos organizados por categorías. Incluye funciones para:
 
