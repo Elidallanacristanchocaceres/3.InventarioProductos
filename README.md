@@ -56,4 +56,11 @@ Este proyecto en Java permite gestionar un inventario de productos organizados p
 - Seleccione una opción: 1
 - Ingrese la categoría a consultar: Frutas
 - Productos en Frutas: [Manzana, Pera]
+____
+### 📬 Contacto
+- 📧 Correo electrónico: cristanchodayana062017@gmail.com
+
+- 💼 LinkedIn: [Elidallana Cristancho Caceres](https://www.linkedin.com/in/elidallanacristancho/)
+
+¡Gracias por ser parte de esta aventura! 🚀✨
 
